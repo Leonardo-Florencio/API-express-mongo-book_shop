@@ -21,4 +21,4 @@ Since it is a CRUD, for now, the API allows the creation, modification, deletion
 <img src="https://img.shields.io/badge/%23-Node.js-green">
 <img src="https://img.shields.io/badge/%23-Express.js-blue">
 <img src="https://img.shields.io/badge/%23-MongoDB-lightgreen">
-<img src="https://img.shields.io/badge/%23-Mongoose.lib-lightred">
+<img src="https://img.shields.io/badge/%23-Mongoose.lib-red">
